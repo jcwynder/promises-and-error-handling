@@ -3,6 +3,7 @@
 - [Promises and Error Handling](#promises-and-error-handling)
   - [Overview](#overview)
   - [Reflection](#reflection)
+    - [Critcal Thinking Questions:](#critcal-thinking-questions)
 
 ## Overview
 
@@ -23,7 +24,7 @@ This assignment was designed to showcase what we learned from the new section of
 
 Throughout this assignment, I was forced to rework my code several times in order to properly implement a showcase for the assignment's objectives. It spent several days researching and studying aspects from this lesson and other aspects covered in the Typescript lesson we learned.
 
-**Critcal Thinking Questions:**
+### Critcal Thinking Questions:
 
 1. Why is it important to handle errors for each individual API call rather than just at the end of the promise chain?
 
